@@ -7,7 +7,7 @@ This folder contains the implementation of the sequential and concorrent multipl
 
 - [Prerequisites](#prerequisites) - Project prerequisites
 - [About the algorithm](#about-the-algorithm) - Informations about the algorithm.
-- [Execution] - Information about how to execute
+- [Execution](#execution) - Information about how to execute
 - [Author](#authors) - Project authors.
 
 
