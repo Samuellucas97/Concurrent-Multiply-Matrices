@@ -1,2 +1,1 @@
-# Multiply-Matrices
-Sequencial and concurrent implememtation 
+# Matrix-multiplication
