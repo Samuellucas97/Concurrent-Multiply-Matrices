@@ -2,11 +2,12 @@
 
 ## Introduction  
 
-This folder contains the implementation of the sequential and concorrent multiply matrix. Given this, it refers to one of the activities of the 1st unit of the _Concurrent Programming_ discipline taught by dr. Eiji Adachi Medeiros Barbosa Bachelor of Information Technology at the Federal University of Rio Grande do Norte (__UFRN__).
+This folder contains the implementation of the sequential and concorrent multiply matrix. Given this, it refers to one of the activities of the 1st unit of the _Concurrent Programming_ discipline taught by dr. Everton Cavalcante Bachelor of Information Technology at the Federal University of Rio Grande do Norte (__UFRN__).
 
 
 - [Prerequisites](#prerequisites) - Project prerequisites
 - [About the algorithm](#about-the-algorithm) - Informations about the algorithm.
+- [Execution] - Information about how to execute
 - [Author](#authors) - Project authors.
 
 
@@ -24,6 +25,18 @@ For concurrent version, It's was created a thread according compute capability. 
 
 
 ## Execution 
+
+In the terminal, execute: 
+
+
+```
+$java Matrix-multiplication/bin br.ufrn.imd.br.Main [X] [F]
+```
+
+Where:
+
+- `X` it should substitute for 4, 8, 16, 32, 64, 128, 256, 512, 1024 and 2048 that it's avaliable dimension matrix;
+- `F` it should substitute for `S` (sequential version algorithm) or `C` (concurrent version algorithm);
 
 ## Authors 
 
